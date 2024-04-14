@@ -1,5 +1,3 @@
-By: Jordan Burge, Samuel Ajiboye, Zachary Boner and Ivan Arias
-
 ## Introduction
 
 This runbook outlines guidelines to assist new hires in integrating new systems and users into the given network infrastructure. It includes setting up a machine for new hires, ensuring that security and function increase at every hierarchy, and providing the proper administrative rights and network settings needed by the new employees for their roles.

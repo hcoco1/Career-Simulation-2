@@ -1,5 +1,9 @@
 # Runbook
 
+## Created By
+
+This document was created by Jordan Burge, Samuel Ajiboye, Zachary Boner, and Ivan Arias. Their contributions have been instrumental in developing comprehensive guidelines for new hires at StackFull Software.
+
 Welcome to the **Career Simulation 2 Runbook** for StackFull Software. This document is designed to guide new hires and IT administrators through the process of integrating new systems and users into the network infrastructure.
 
 ## Table of Contents
