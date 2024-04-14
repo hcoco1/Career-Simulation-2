@@ -1,10 +1,19 @@
-# Step 8: Check the Latest Installed Program
+## Step 8
+### Use PowerShell to check what the latest program installed on the computer was
 
-Identify the most recently installed program on the system using PowerShell.
+- Open the PowerShell 
+- Type the following command
 
-## Instructions
 
-1. Use PowerShell to query the most recent installation details.
+```PowerShell
+Get-WmiObject -Class Win32_Product | Sort-Object InstallDate -Descending | Select-Object -First 1 Name, InstallDate
+```
+
+---
+
+![alt text](https://github.com/hcoco1/career-2/blob/main/images/step_8_1.png?raw=true)
+
+---
 
 ## Navigation
 

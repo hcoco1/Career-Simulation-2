@@ -1,11 +1,40 @@
-# Step 3: Create a Group and Assign User
+## Step 3
 
-This step focuses on creating a group for the Sales department and adding the new user to this group.
+### Create a group with the department name and place the user in that group
 
-## Instructions
+- Right-click on the newly created user and select "Add to Group".
+- Type "Domain Admins" in the object names box and click "OK" to grant full system privileges.
+- Right-click on the user's name and select "Properties".
+- Navigate to the "Member Of" tab to verify the groups the user is a part of.
+- Click "OK" to close the properties window.
 
-1. Create a group named "Sales".
-2. Add John Doe to the "Sales" group.
+---
+
+![alt text](https://github.com/hcoco1/career-2/blob/main/images/step_3.png?raw=true)
+
+---
+
+- Option 1: From John Doe Properties
+  
+---
+
+![alt text](https://github.com/hcoco1/career-2/blob/main/images/step_3_2.png?raw=true)
+
+---
+
+- Option 2: From sales's group Properties
+  
+---
+
+![alt text](https://github.com/hcoco1/career-2/blob/main/images/step_3_3.png?raw=true)
+
+---
+
+---
+
+![alt text](https://github.com/hcoco1/career-2/blob/main/images/step_3_1.png?raw=true)
+
+---
 
 ## Navigation
 

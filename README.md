@@ -18,7 +18,7 @@ Welcome to the **Career Simulation 2 Runbook** for StackFull Software. This docu
 
 ## Introduction
 
-This section introduces the purpose of the runbook, the expected users, and the overall goals for integrating new hires into the network infrastructure.
+This runbook outlines guidelines to assist new hires in integrating new systems and users into the given network infrastructure. It includes setting up a machine for new hires, ensuring that security and function increase at every hierarchy, and providing the proper administrative rights and network settings needed by the new employees for their roles.
 
 [Read More...](steps/introduction.md)
 

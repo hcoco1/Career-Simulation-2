@@ -1,11 +1,24 @@
-# Step 2: Create a User for the New Hire
+## Step 2
 
-This step involves creating a user account for the new hire, John Doe, in Active Directory.
+### Create a user for the new hire and set a password
 
-## Instructions
+- On the server computer, click the search icon on the taskbar.
+- Search for "Active Directory Users and Computers" and open it.
+- Click on "Users" on the left panel.
+- In the toolbar at the top, click on the sixth icon from the right, which allows you to create a new user in the current container.
+- Complete the user creation form and add the user.
 
-1. Access "Active Directory Users and Computers".
-2. Navigate to "Users" and create a new user with the required details.
+---
+
+![alt text](https://github.com/hcoco1/career-2/blob/main/images/step_2_1.png?raw=true)
+
+---
+
+---
+
+![alt text](https://github.com/hcoco1/career-2/blob/main/images/step_2_4.png?raw=true)
+
+---
 
 ## Navigation
 

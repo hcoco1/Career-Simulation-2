@@ -1,13 +1,7 @@
-# Step 1: Join the Computer to the Domain
+## Summary
 
-This step covers the process of joining a computer to the `contoso.com` domain.
-
-## Instructions
-
-1. On the server VM, run `ipconfig` in PowerShell and note the IPv4 Address.
-2. On desktop-2 VM, set the DNS server address to the domain controller's IP.
-3. Change the computer name and join it to the `contoso.com` domain using provided credentials.
+The runbook lays a strategy outlining several processes that IT admins must conduct to ensure the network infrastructure is properly managed and secured. This strategy guarantees a smooth and flawless integration of users with the domain systems, which is a must for maintaining system integrity and operational continuity. This document is detailed to the entire scope; it outlines various settings in the network and setting up user privileges to be right in a manner that would make the IT environment solid and secure.
 
 ## Navigation
 
-[Back to Home](../README.md) | [Next: Create a User for the New Hire](step2.md)
+[Back to Home](../README.md) 
