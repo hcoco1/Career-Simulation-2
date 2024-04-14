@@ -1,4 +1,5 @@
 ## Step 8
+
 ### Use PowerShell to check what the latest program installed on the computer was
 
 - Open the PowerShell 
