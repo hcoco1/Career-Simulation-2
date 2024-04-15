@@ -22,24 +22,30 @@ Department they work in (i.e., HR, Sales, Marketing)
 Read the steps below and discuss how each step may differ based on the permissions needed for your specific new hire. 
 
 Step 1
-- Join the computer to the domain (the domain name is contoso.com). The username/password is administrator/Pa$$w0rd.
+
+- Join the computer to the domain (the domain name is contoso.com). The username/password is administrator/Pa$$w0rd
 
 Step 2
+
 - Switch to the server. Create a user for the new hire and set a password.
 
 Step 3
+
 - Create a group with the department name and place the user in that group.
 
 Step 4
+
 - Create a share on the server with the department name and share it only with people who belong to that department (read and write permissions). In the folder, create a text document called test.txt.
 
 Step 5
+
 - Create an OU with the department's name and place the user, group, and computer in the OU. Attach a GPO to the OU you created.
 
 Step 6
+
 - Edit the GPO and apply the following rules:
 
-A message should appear whenever the computer starts (do not install unauthorized programs).
+- A message should appear whenever the computer starts (do not install unauthorized programs).
 - Prevent the user's access to CMD.
 - Add script to the user's login to map the share you created.
 - Disable the run command from the start menu.
@@ -47,9 +53,11 @@ Step 7
 - Check the Event Viewer on the server machine and write down the last successful login from your user. (Note: You must log in with the domain administrator account).
 
 Step 8
+
 - Use PowerShell to check what the latest program installed on the computer was.
 
 Step 9
+
 - Write a PowerShell script that gives a list of all running services and puts it in a file named running_services.txt.
 
 Runbook
@@ -58,7 +66,7 @@ Damen would like you to write a runbook documenting your process for setting up 
 - Introduction of what steps the runbook achieves
 - Procedure on how to complete steps, with visuals
   
---- 
+---
 
 ##### Navigation
 
