@@ -1,6 +1,6 @@
 #### Navigation
 
-[Previous: Join the Computer to the Domain](step1.md) | [Next: Create a Group and Assign User](step3.md)
+[Previous: Join the Computer to the Domain ](step1.md)  |  [ Next: Create a Group and Assign User](step3.md)
 
 ---
 
@@ -28,5 +28,5 @@
 
 #### Navigation
 
-[Previous: Join the Computer to the Domain](step1.md) | [Next: Create a Group and Assign User](step3.md)
+[Previous: Join the Computer to the Domain ](step1.md)  |  [ Next: Create a Group and Assign User](step3.md)
 
