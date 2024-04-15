@@ -8,7 +8,7 @@ Welcome to the **Career Simulation 2 Runbook**. This document is designed to gui
 
 ### Table of Contents
 
-- [Pre-onboarding Runbook](steps/problem.md)
+- [Pre-onboarding Runbook](steps/_onboarding.md)
 - [Introduction](#introduction)
 - [Step 1: Join the Computer to the Domain](steps/step1.md)
 - [Step 2: Create a User for the New Hire](steps/step2.md)
