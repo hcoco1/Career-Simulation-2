@@ -1,6 +1,6 @@
 ##### Navigation
 
-[Back to Home](../README.md) | [Next: Create a User for the New Hire](step1.md)
+[Back to Home 🏠](../README.md) | [Next: Join the Computer 💻 to the Domain](step1.md)
 
 ---
 
@@ -28,4 +28,4 @@ Monitoring and Auditing: The activities done with administrative privileges must
 
 ##### Navigation
 
-[Back to Home](../README.md) | [Next: Create a User for the New Hire](step1.md)
+[Back to Home 🏠](../README.md) | [Next: Join the Computer 💻 to the Domain](step1.md)

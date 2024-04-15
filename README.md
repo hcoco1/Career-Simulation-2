@@ -1,4 +1,4 @@
-## Runbook
+## Runbook 📙
 
 ### Created By
 
@@ -34,7 +34,7 @@ A wrap-up of what has been covered in the runbook, emphasizing the key points an
 [Read More...](steps/summary.md)
 
 ---
-
+🔍
 **Note**: Each step linked above leads to a detailed Markdown file that provides specific instructions and additional context. Follow the links to navigate through the setup process efficiently.
 
 
