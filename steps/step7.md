@@ -1,6 +1,6 @@
 #### Navigation
 
-[Previous: Edit GPO and Apply Rules](step6.md) | [Next: Check the Latest Installed Program](step8.md)
+[Back to Home 🏠](../README.md) | [Previous: Edit GPO and Apply Rules](step6.md) | [Next: **Step 8** Check the Latest Installed Program](step8.md)
 
 ---
 
@@ -37,5 +37,5 @@
 
 #### Navigation
 
-[Previous: Edit GPO and Apply Rules](step6.md) | [Next: Check the Latest Installed Program](step8.md)
+[Back to Home 🏠](../README.md) | [Previous: Edit GPO and Apply Rules](step6.md) | [Next: **Step 8** Check the Latest Installed Program](step8.md)
 

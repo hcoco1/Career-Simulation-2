@@ -1,6 +1,6 @@
 #### Navigation
 
-[Previous: Create a User for the New Hire ](step2.md)  |  [ Next: Create and Share Department Folder](step4.md)
+[Back to Home 🏠](../README.md) | [Previous: Create a User for the New Hire](step2.md)  |  [Next: **Step 4** Create and Share Department Folder](step4.md)
 
 ---
 
@@ -44,5 +44,5 @@
 
 #### Navigation
 
-[Previous: Create a User for the New Hire ](step2.md)  |  [ Next: Create and Share Department Folder](step4.md)
+[Back to Home 🏠](../README.md) | [Previous: Create a User for the New Hire](step2.md)  |  [Next: **Step 4** Create and Share Department Folder](step4.md)
 

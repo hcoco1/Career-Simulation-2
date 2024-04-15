@@ -1,6 +1,6 @@
 #### Navigation
 
-[Previous: Create an OU and Attach a GPO](step5.md) | [Next: Check Event Viewer for Logins](step7.md)
+[Back to Home 🏠](../README.md) | [Previous: Create an OU and Attach a GPO](step5.md) | [Next: **Step 7** Check Event Viewer for Logins](step7.md)
 
 ---
 
@@ -125,5 +125,5 @@
 
 #### Navigation
 
-[Previous: Create an OU and Attach a GPO](step5.md) | [Next: Check Event Viewer for Logins](step7.md)
+[Back to Home 🏠](../README.md) | [Previous: Create an OU and Attach a GPO](step5.md) | [Next: **Step 7** Check Event Viewer for Logins](step7.md)
 

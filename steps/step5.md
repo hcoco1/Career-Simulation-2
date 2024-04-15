@@ -1,6 +1,6 @@
 #### Navigation
 
-[Previous: Create and Share Department Folder](step4.md) | [Next: Edit GPO and Apply Rules](step6.md)
+[Back to Home 🏠](../README.md) | [Previous: Create and Share Department Folder](step4.md) | [Next: **Step 6** Edit GPO and Apply Rules](step6.md)
 
 ---
 
@@ -49,5 +49,5 @@
 
 #### Navigation
 
-[Previous: Create and Share Department Folder](step4.md) | [Next: Edit GPO and Apply Rules](step6.md)
+[Back to Home 🏠](../README.md) | [Previous: Create and Share Department Folder](step4.md) | [Next: **Step 6** Edit GPO and Apply Rules](step6.md)
 

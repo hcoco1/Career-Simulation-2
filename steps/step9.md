@@ -1,6 +1,6 @@
 ##### Navigation
 
-[Previous: Check the Latest Installed Program](step8.md) | [Next: Summary](summary.md)
+[Back to Home 🏠](../README.md) | [Previous: Check the Latest Installed Program](step8.md) | [Next: Summary](summary.md)
 
 ---
 
@@ -50,5 +50,5 @@ Get-WmiObject -Class Win32_Product | Select-Object -Property Name, Version, Inst
 
 ##### Navigation
 
-[Previous: Check the Latest Installed Program](step8.md) | [Next: Summary](summary.md)
+[Back to Home 🏠](../README.md) | [Previous: Check the Latest Installed Program](step8.md) | [Next: Summary](summary.md)
 

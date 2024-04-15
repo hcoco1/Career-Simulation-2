@@ -1,6 +1,6 @@
 ##### Navigation
 
-[Previous: Check Event Viewer for Logins](step7.md) | [Next: List All Running Services](step9.md)
+[Back to Home 🏠](../README.md) | [Previous: Check Event Viewer for Logins](step7.md) | [Next: **Step 9** List All Running Services](step9.md)
 
 ---
 
@@ -28,5 +28,5 @@ Get-WmiObject -Class Win32_Product | Sort-Object InstallDate -Descending | Selec
 
 ##### Navigation
 
-[Previous: Check Event Viewer for Logins](step7.md) | [Next: List All Running Services](step9.md)
+[Back to Home 🏠](../README.md) | [Previous: Check Event Viewer for Logins](step7.md) | [Next: **Step 9** List All Running Services](step9.md)
 

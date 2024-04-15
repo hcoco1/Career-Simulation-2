@@ -1,6 +1,6 @@
 #### Navigation
 
-[Previous: Create a Group and Assign User](step3.md) | [Next: Create an OU and Attach a GPO](step5.md)
+[Back to Home 🏠](../README.md) | [Previous: Create a Group and Assign User](step3.md) | [Next: **Step 5** Create an OU and Attach a GPO](step5.md)
 
 ---
 
@@ -55,5 +55,5 @@
 
 #### Navigation
 
-[Previous: Create a Group and Assign User](step3.md) | [Next: Create an OU and Attach a GPO](step5.md)
+[Back to Home 🏠](../README.md) | [Previous: Create a Group and Assign User](step3.md) | [Next: **Step 5** Create an OU and Attach a GPO](step5.md)
 
