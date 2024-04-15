@@ -44,12 +44,13 @@ Step 5
 Step 6
 
 - Edit the GPO and apply the following rules:
-
 - A message should appear whenever the computer starts (do not install unauthorized programs).
 - Prevent the user's access to CMD.
 - Add script to the user's login to map the share you created.
 - Disable the run command from the start menu.
+  
 Step 7
+
 - Check the Event Viewer on the server machine and write down the last successful login from your user. (Note: You must log in with the domain administrator account).
 
 Step 8
@@ -60,8 +61,8 @@ Step 9
 
 - Write a PowerShell script that gives a list of all running services and puts it in a file named running_services.txt.
 
-Runbook
-Damen would like you to write a runbook documenting your process for setting up a machine for new hires. Your runbook should include the following:
+
+**Damen** would like you to write a runbook documenting your process for setting up a machine for new hires. Your runbook should include the following:
 
 - Introduction of what steps the runbook achieves
 - Procedure on how to complete steps, with visuals
