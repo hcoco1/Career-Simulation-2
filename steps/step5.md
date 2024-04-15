@@ -1,3 +1,10 @@
+#### Navigation
+
+[Previous: Create and Share Department Folder](step4.md) | [Next: Edit GPO and Apply Rules](step6.md)
+
+---
+
+
 ## Step 5
 
 ### Create an OU with the department's name and place the user, group, and computer in the OU. Attach a GPO to the OU you created.
@@ -40,7 +47,7 @@
 
 ---
 
-## Navigation
+#### Navigation
 
 [Previous: Create and Share Department Folder](step4.md) | [Next: Edit GPO and Apply Rules](step6.md)
 

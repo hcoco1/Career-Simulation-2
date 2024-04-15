@@ -1,3 +1,8 @@
+##### Navigation
+
+[Back to Home](../README.md)
+
+---
 
 ## Summary
 
@@ -14,6 +19,8 @@ We would like to express our gratitude to the authors of this runbook:
 
 Their combined efforts have greatly enhanced the effectiveness of this resource.
 
-## Navigation
+---
+
+##### Navigation
 
 [Back to Home](../README.md)

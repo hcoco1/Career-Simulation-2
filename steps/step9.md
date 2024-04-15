@@ -1,3 +1,9 @@
+##### Navigation
+
+[Previous: Check the Latest Installed Program](step8.md) | [Next: Summary](summary.md)
+
+---
+
 ## Step 9
 
 ### Write a PowerShell script that gives a list of all running services and puts it in a file named running_services.txt.
@@ -42,7 +48,7 @@ Get-WmiObject -Class Win32_Product | Select-Object -Property Name, Version, Inst
 
 ---
 
-## Navigation
+##### Navigation
 
 [Previous: Check the Latest Installed Program](step8.md) | [Next: Summary](summary.md)
 

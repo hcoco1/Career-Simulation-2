@@ -1,3 +1,9 @@
+#### Navigation
+
+[Previous: Create a User for the New Hire](step2.md) | [Next: Create and Share Department Folder](step4.md)
+
+---
+
 ## Step 3
 
 ### Create a group with the department name and place the user in that group
@@ -36,7 +42,7 @@
 
 ---
 
-## Navigation
+#### Navigation
 
 [Previous: Create a User for the New Hire](step2.md) | [Next: Create and Share Department Folder](step4.md)
 

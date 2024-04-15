@@ -1,12 +1,12 @@
-# Runbook
+## Runbook
 
-## Created By
+### Created By
 
-This document was created by **Jordan Burge**, **Samuel Ajiboye**, **Zachary Boner**, and **Ivan Arias**
+This document was created by **Jordan Burge**, **Samuel Ajiboye**, **Zachary Boner**, and [**Ivan Arias**](http://www.hcoco1.com).
 
 Welcome to the **Career Simulation 2 Runbook**. This document is designed to guide new hires and IT administrators through the process of integrating new systems and users into the network infrastructure.
 
-## Table of Contents
+### Table of Contents
 
 - [Pre-onboarding Runbook](steps/problem.md)
 - [Introduction](#introduction)
@@ -21,13 +21,13 @@ Welcome to the **Career Simulation 2 Runbook**. This document is designed to gui
 - [Step 9: List All Running Services](steps/step9.md)
 - [Summary](#summary)
 
-## Introduction
+### Introduction
 
 This runbook outlines guidelines to assist new hires in integrating new systems and users into the given network infrastructure. It includes setting up a machine for new hires, ensuring that security and function increase at every hierarchy, and providing the proper administrative rights and network settings needed by the new employees for their roles.
 
 [Read More...](steps/introduction.md)
 
-## Summary
+### Summary
 
 A wrap-up of what has been covered in the runbook, emphasizing the key points and the importance of following the outlined procedures for security and efficiency.
 

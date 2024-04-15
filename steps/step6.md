@@ -1,3 +1,9 @@
+#### Navigation
+
+[Previous: Create an OU and Attach a GPO](step5.md) | [Next: Check Event Viewer for Logins](step7.md)
+
+---
+
 ## Step 6 
 
 ### Edit the GPO and apply the following rules:
@@ -117,7 +123,7 @@
 
 ---
 
-## Navigation
+#### Navigation
 
 [Previous: Create an OU and Attach a GPO](step5.md) | [Next: Check Event Viewer for Logins](step7.md)
 

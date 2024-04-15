@@ -1,3 +1,9 @@
+#### Navigation
+
+[Previous: Edit GPO and Apply Rules](step6.md) | [Next: Check the Latest Installed Program](step8.md)
+
+---
+
 ## Step 7
 
 ### Check the Event Viewer on the server machine and write down the last successful login from your user
@@ -29,7 +35,7 @@
 
 ---
 
-## Navigation
+#### Navigation
 
 [Previous: Edit GPO and Apply Rules](step6.md) | [Next: Check the Latest Installed Program](step8.md)
 

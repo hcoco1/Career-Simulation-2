@@ -1,3 +1,9 @@
+#### Navigation
+
+[Previous: Create a Group and Assign User](step3.md) | [Next: Create an OU and Attach a GPO](step5.md)
+
+---
+
 ## Step 4 
 
 ### Create a share on the server with the department name and share it only with people who belong to that department (read and write permissions). In the folder, create a text document called test.txt.
@@ -47,7 +53,7 @@
 
 ---
 
-## Navigation
+#### Navigation
 
 [Previous: Create a Group and Assign User](step3.md) | [Next: Create an OU and Attach a GPO](step5.md)
 

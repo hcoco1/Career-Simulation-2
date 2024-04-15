@@ -1,3 +1,9 @@
+##### Navigation
+
+[Back to Home](../README.md) | [Next: Create a User for the New Hire](step1.md)
+
+---
+
 ## Introduction
 
 This runbook outlines guidelines to assist new hires in integrating new systems and users into the given network infrastructure. It includes setting up a machine for new hires, ensuring that security and function increase at every hierarchy, and providing the proper administrative rights and network settings needed by the new employees for their roles.
@@ -18,7 +24,8 @@ Security Training and Awareness: New hires who are going admin are also security
 
 Monitoring and Auditing: The activities done with administrative privileges must be monitored and appropriately audited regularly.
 
+---
 
-## Navigation
+##### Navigation
 
 [Back to Home](../README.md) | [Next: Create a User for the New Hire](step1.md)

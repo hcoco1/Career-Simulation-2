@@ -1,3 +1,11 @@
+##### Navigation
+
+[Back to Home](../README.md) | [Introduction](introduction.md)
+
+---
+
+
+
 ## Scenario
 As a new StackFull Software employee, you've been tasked to work alongside Damen, the IT Security Manager, to write a runbook for the IT Pre-onboarding process.
 
@@ -49,8 +57,9 @@ Damen would like you to write a runbook documenting your process for setting up 
 
 - Introduction of what steps the runbook achieves
 - Procedure on how to complete steps, with visuals
+  
+--- 
 
-
-## Navigation
+##### Navigation
 
 [Back to Home](../README.md) | [Introduction](introduction.md)

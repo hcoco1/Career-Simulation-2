@@ -1,3 +1,9 @@
+#### Navigation
+
+[Previous: Join the Computer to the Domain](step1.md) | [Next: Create a Group and Assign User](step3.md)
+
+---
+
 ## Step 2
 
 ### Create a user for the new hire and set a password
@@ -20,7 +26,7 @@
 
 ---
 
-## Navigation
+#### Navigation
 
 [Previous: Join the Computer to the Domain](step1.md) | [Next: Create a Group and Assign User](step3.md)
 

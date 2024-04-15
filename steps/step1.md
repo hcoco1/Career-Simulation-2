@@ -1,3 +1,9 @@
+##### Navigation
+
+[Back to Home](../README.md) | [Next: Create a User for the New Hire](step2.md)
+
+---
+
 ## Step 1
 
 ### Join the Computer to the Domain contoso.com
@@ -64,6 +70,6 @@ Tunnel adapter isatap.us-west-2.compute.internal:
 
 ---
 
-## Navigation
+##### Navigation
 
 [Back to Home](../README.md) | [Next: Create a User for the New Hire](step2.md)
