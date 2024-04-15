@@ -1,6 +1,6 @@
 ##### Navigation
 
-[Back to Home](../README.md) | [Next: Create a User for the New Hire](step2.md)
+[Back to Home 🏠](../README.md) | [Next: Create a User for the New Hire](step2.md)
 
 ---
 
@@ -72,4 +72,4 @@ Tunnel adapter isatap.us-west-2.compute.internal:
 
 ##### Navigation
 
-[Back to Home](../README.md) | [Next: Create a User for the New Hire](step2.md)
+[Back to Home 🏠](../README.md) | [Next: Create a User for the New Hire](step2.md)
