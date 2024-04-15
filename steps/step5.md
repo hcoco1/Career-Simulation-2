@@ -16,7 +16,7 @@
 
 ---
 
-![alt text](https://github.com/hcoco1/career-2/blob/main/images/step_5_1.png?raw=true)
+![alt text](https://github.com/hcoco1/Career-Simulation-2/blob/main/images/step_5_1.png?raw=true)
 
 ---
 
@@ -43,7 +43,7 @@
 - Click OK to create and link the GPO to your OU.
 ---
 
-![alt text](https://github.com/hcoco1/career-2/blob/main/images/step_5_2.png?raw=true)
+![alt text](https://github.com/hcoco1/Career-Simulation-2/blob/main/images/step_5_2.png?raw=true)
 
 ---
 

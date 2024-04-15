@@ -16,7 +16,7 @@
 
 ---
 
-![alt text](https://github.com/hcoco1/career-2/blob/main/images/step_3.png?raw=true)
+![alt text](https://github.com/hcoco1/Career-Simulation-2/blob/main/images/step_3.png?raw=true)
 
 ---
 
@@ -24,7 +24,7 @@
   
 ---
 
-![alt text](https://github.com/hcoco1/career-2/blob/main/images/step_3_2.png?raw=true)
+![alt text](https://github.com/hcoco1/Career-Simulation-2/blob/main/images/step_3_2.png?raw=true)
 
 ---
 
@@ -32,13 +32,13 @@
   
 ---
 
-![alt text](https://github.com/hcoco1/career-2/blob/main/images/step_3_3.png?raw=true)
+![alt text](https://github.com/hcoco1/Career-Simulation-2/blob/main/images/step_3_3.png?raw=true)
 
 ---
 
 ---
 
-![alt text](https://github.com/hcoco1/career-2/blob/main/images/step_3_1.png?raw=true)
+![alt text](https://github.com/hcoco1/Career-Simulation-2/blob/main/images/step_3_1.png?raw=true)
 
 ---
 

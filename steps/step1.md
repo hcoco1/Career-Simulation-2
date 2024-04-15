@@ -37,7 +37,7 @@ Tunnel adapter isatap.us-west-2.compute.internal:
 
 ---
 
-![Step 1](https://github.com/hcoco1/career-2/blob/main/images/step_1.png?raw=true)
+![Step 1](https://github.com/hcoco1/Career-Simulation-2/blob/main/images/step_1.png?raw=true)
 
 ---
 
@@ -52,7 +52,7 @@ Tunnel adapter isatap.us-west-2.compute.internal:
 
 ---
 
-![Step 1](https://github.com/hcoco1/career-2/blob/main/images/step_1_2.png?raw=true)
+![Step 1](https://github.com/hcoco1/Career-Simulation-2/blob/main/images/step_1_2.png?raw=true)
 
 ---
 
@@ -66,7 +66,7 @@ Tunnel adapter isatap.us-west-2.compute.internal:
 
 ---
 
-![Step 1](https://github.com/hcoco1/career-2/blob/main/images/step_1_7.png?raw=true)
+![Step 1](https://github.com/hcoco1/Career-Simulation-2/blob/main/images/step_1_7.png?raw=true)
 
 ---
 

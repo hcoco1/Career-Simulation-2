@@ -29,22 +29,22 @@ Get-WmiObject -Class Win32_Product | Select-Object -Property Name, Version, Inst
 
 ---
 
-![alt text](https://github.com/hcoco1/career-2/blob/main/images/step_9_1.png?raw=true)
+![alt text](https://github.com/hcoco1/Career-Simulation-2/blob/main/images/step_9_1.png?raw=true)
 
 ---
 ---
 
-![alt text](https://github.com/hcoco1/career-2/blob/main/images/step_9_2.png?raw=true)
+![alt text](https://github.com/hcoco1/Career-Simulation-2/blob/main/images/step_9_2.png?raw=true)
 
 ---
 ---
 
-![alt text](https://github.com/hcoco1/career-2/blob/main/images/step_9_3.png?raw=true)
+![alt text](https://github.com/hcoco1/Career-Simulation-2/blob/main/images/step_9_3.png?raw=true)
 
 ---
 ---
 
-![alt text](https://github.com/hcoco1/career-2/blob/main/images/step_9_4.png?raw=true)
+![alt text](https://github.com/hcoco1/Career-Simulation-2/blob/main/images/step_9_4.png?raw=true)
 
 ---
 

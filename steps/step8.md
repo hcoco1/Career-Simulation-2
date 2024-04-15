@@ -22,7 +22,7 @@ Get-WmiObject -Class Win32_Product | Sort-Object InstallDate -Descending | Selec
   
 ---
 
-![alt text](https://github.com/hcoco1/career-2/blob/main/images/step_8_1.png?raw=true)
+![alt text](https://github.com/hcoco1/Career-Simulation-2/blob/main/images/step_8_1.png?raw=true)
 
 ---
 

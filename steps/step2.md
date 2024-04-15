@@ -16,13 +16,13 @@
 
 ---
 
-![alt text](https://github.com/hcoco1/career-2/blob/main/images/step_2_1.png?raw=true)
+![alt text](https://github.com/hcoco1/Career-Simulation-2/blob/main/images/step_2_1.png?raw=true)
 
 ---
 
 ---
 
-![alt text](https://github.com/hcoco1/career-2/blob/main/images/step_2_4.png?raw=true)
+![alt text](https://github.com/hcoco1/Career-Simulation-2/blob/main/images/step_2_4.png?raw=true)
 
 ---
 

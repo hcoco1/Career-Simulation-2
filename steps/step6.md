@@ -30,19 +30,19 @@
 
 ---
 
-![alt text](https://github.com/hcoco1/career-2/blob/main/images/step_6_1.png?raw=true)
+![alt text](https://github.com/hcoco1/Career-Simulation-2/blob/main/images/step_6_1.png?raw=true)
 
 ---
 
 ---
 
-![alt text](https://github.com/hcoco1/career-2/blob/main/images/step_6_2.png?raw=true)
+![alt text](https://github.com/hcoco1/Career-Simulation-2/blob/main/images/step_6_2.png?raw=true)
 
 ---
 
 ---
 
-![alt text](https://github.com/hcoco1/career-2/blob/main/images/step_6_3.png?raw=true)
+![alt text](https://github.com/hcoco1/Career-Simulation-2/blob/main/images/step_6_3.png?raw=true)
 
 ---
 
@@ -64,12 +64,12 @@
 
 ---
 
-![alt text](https://github.com/hcoco1/career-2/blob/main/images/step_6_2_1.png?raw=true)
+![alt text](https://github.com/hcoco1/Career-Simulation-2/blob/main/images/step_6_2_1.png?raw=true)
 
 ---
 ---
 
-![alt text](https://github.com/hcoco1/career-2/blob/main/images/step_6_2_2.png?raw=true)
+![alt text](https://github.com/hcoco1/Career-Simulation-2/blob/main/images/step_6_2_2.png?raw=true)
 
 ---
 
@@ -94,7 +94,7 @@
 
 ---
 
-![alt text](https://github.com/hcoco1/career-2/blob/main/images/step_6_3_1.png?raw=true)
+![alt text](https://github.com/hcoco1/Career-Simulation-2/blob/main/images/step_6_3_1.png?raw=true)
 
 ---
 
@@ -114,12 +114,12 @@
 
 ---
 
-![alt text](https://github.com/hcoco1/career-2/blob/main/images/step_6_4_1.png?raw=true)
+![alt text](https://github.com/hcoco1/Career-Simulation-2/blob/main/images/step_6_4_1.png?raw=true)
 
 ---
 ---
 
-![alt text](https://github.com/hcoco1/career-2/blob/main/images/step_6_4_2.png?raw=true)
+![alt text](https://github.com/hcoco1/Career-Simulation-2/blob/main/images/step_6_4_2.png?raw=true)
 
 ---
 
