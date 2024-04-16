@@ -2,7 +2,7 @@
 
 ### Created By
 
-This document was created by **Jordan Burge**, **Samuel Ajiboye**, **Zachary Boner**, and [**Ivan Arias**](http://www.hcoco1.com).
+This document was collaboratively created by Jordan Burge, Samuel Ajiboye, Zachary Boner, and Ivan Arias. While everyone contributed to the content, the repository and website were solely developed by [**Ivan Arias**](http://www.hcoco1.com)
 
 Welcome to the **Career Simulation 2 Runbook**. This document is designed to guide new hires and IT administrators through the process of integrating new systems and users into the network infrastructure.
 
@@ -36,5 +36,3 @@ A wrap-up of what has been covered in the runbook, emphasizing the key points an
 ---
 🔍
 **Note**: Each step linked above leads to a detailed Markdown file that provides specific instructions and additional context. Follow the links to navigate through the setup process efficiently.
-
-
