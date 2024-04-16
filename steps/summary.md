@@ -1,6 +1,6 @@
 ##### Navigation
 
-[Back to Home](../README.md)
+[Back to Home 🏠](../README.md)
 
 ---
 
@@ -23,4 +23,4 @@ Their combined efforts have greatly enhanced the effectiveness of this resource.
 
 ##### Navigation
 
-[Back to Home](../README.md)
+[Back to Home 🏠](../README.md)
