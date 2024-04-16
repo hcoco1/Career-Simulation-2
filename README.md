@@ -1,8 +1,18 @@
 ## Runbook 📙
 
+---
+
 ### Created By
 
-This document was collaboratively created by Jordan Burge, Samuel Ajiboye, Zachary Boner, and Ivan Arias. While everyone contributed to the content, the repository and website were solely developed by [**Ivan Arias**](http://www.hcoco1.com)
+#### Document Contributors:
+
+Jordan Burge, Samuel Ajiboye, Zachary Boner, Ivan Arias
+
+#### Repository and Website Creation:
+
+[**Ivan Arias**](http://www.hcoco1.com) 🧑🏻‍💻
+
+---
 
 Welcome to the **Career Simulation 2 Runbook**. This document is designed to guide new hires and IT administrators through the process of integrating new systems and users into the network infrastructure.
 
