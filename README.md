@@ -1,10 +1,6 @@
 ## Runbook 📙
 
----
-
-### Created By
-
-#### Document Contributors:
+#### Document Contributors
 
 Jordan Burge, Samuel Ajiboye, Zachary Boner, Ivan Arias
 
