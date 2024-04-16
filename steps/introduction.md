@@ -16,13 +16,13 @@ This runbook outlines guidelines to assist new hires in integrating new systems 
 
 **Managing administrative privileges for a new hire is a critical task that must be approached with careful consideration of both security and operational efficiency.**
 
-Careful Allocation of Privileges: this might be carried out in case the activities of joining a domain, setting up user accounts, and establishing network settings need to be done. Therefore, one must seek the administrative rights of the newly employed person keenly. For standard users, IT administrators usually handle such tasks to avoid granting excessive privileges.
+Careful Allocation of Privileges: This may be necessary for joining a domain, setting up user accounts, and establishing network settings. It is essential to consider the administrative rights granted to newly hired personnel carefully. IT administrators typically handle such tasks for standard users to avoid granting excessive privileges.
 
-Role-Based Access Control (RBAC): Enforcing RBAC ensures that admin rights are assigned based on the new hire's roles and responsibilities. It grants only the necessary privileges and hence reduces the chance of security exposure.
+Role-Based Access Control (RBAC): Enforcing RBAC ensures that admin rights are assigned based on the new hire's roles and responsibilities. This approach grants only the necessary privileges, reducing the risk of security exposure.
 
-Security Training and Awareness: New hires who are going admin are also security-trained for the risks and responsibilities pertaining to this right. This includes knowledge of security policies, best practices to manage network settings, consequences of misuse, etc.
+Security Training and Awareness: New hires assuming administrative roles also undergo security training to understand the risks and responsibilities associated with these privileges. This includes learning about security policies, best practices for managing network settings, and the consequences of misuse.
 
-Monitoring and Auditing: The activities done with administrative privileges must be monitored and appropriately audited regularly.
+Monitoring and Auditing: Activities carried out with administrative privileges must be monitored and audited regularly to ensure they are performed correctly and securely.
 
 ---
 
