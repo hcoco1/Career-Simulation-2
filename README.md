@@ -15,7 +15,7 @@ Welcome to the **Career Simulation 2 Runbook**. This document is designed to gui
 ### Table of Contents
 
 - [Pre-onboarding Runbook](steps/anboarding.md)
-- [Introduction](#introduction)
+- [Introduction](steps/introduction.md)
 - [Step 1: Join the Computer to the Domain](steps/step1.md)
 - [Step 2: Create a User for the New Hire](steps/step2.md)
 - [Step 3: Create a Group and Assign User](steps/step3.md)
@@ -25,19 +25,7 @@ Welcome to the **Career Simulation 2 Runbook**. This document is designed to gui
 - [Step 7: Check Event Viewer for Logins](steps/step7.md)
 - [Step 8: Check Latest Installed Program](steps/step8.md)
 - [Step 9: List All Running Services](steps/step9.md)
-- [Summary](#summary)
-
-### Introduction
-
-This runbook outlines guidelines to assist new hires in integrating new systems and users into the given network infrastructure. It includes setting up a machine for new hires, ensuring that security and function increase at every hierarchy, and providing the proper administrative rights and network settings needed by the new employees for their roles.
-
-[Read More...](steps/introduction.md)
-
-### Summary
-
-A wrap-up of what has been covered in the runbook, emphasizing the key points and the importance of following the outlined procedures for security and efficiency.
-
-[Read More...](steps/summary.md)
+- [Summary](steps/summary.md)
 
 ---
 🔍
